@@ -6,5 +6,6 @@ find their location and additional information.
 
 Data sources:
 Yelp
+
 Open source Data from City of Toronto
 
